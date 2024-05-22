@@ -1,0 +1,30 @@
+[2024-03-20 01:46:41,098: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-20 01:46:41,118: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-20 01:46:42,142: INFO/MainProcess] mingle: all alone
+[2024-03-20 01:46:42,201: INFO/MainProcess] celery@4db542dcc4ca ready.
+[2024-03-20 01:49:42,877: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-20 01:49:42,906: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-20 01:49:43,934: INFO/MainProcess] mingle: all alone
+[2024-03-20 01:49:44,002: INFO/MainProcess] celery@eaf2a210231f ready.
+[2024-03-20 01:49:46,844: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-03-20 01:54:52,083: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-20 01:54:52,121: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-20 01:54:53,191: INFO/MainProcess] mingle: all alone
+[2024-03-20 01:54:53,270: INFO/MainProcess] celery@a79efbd4548b ready.
+[2024-03-20 01:54:53,395: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-20 01:54:53,445: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-20 01:54:53,489: INFO/MainProcess] sync with celery@7d0a5f95ab13
+[2024-03-20 01:54:54,406: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-20 01:54:54,421: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-20 01:54:54,452: INFO/MainProcess] sync with celery@9b74aceb915e
+[2024-03-20 01:54:54,512: INFO/MainProcess] mingle: sync with 1 nodes
+[2024-03-20 01:54:54,516: INFO/MainProcess] mingle: sync complete
+[2024-03-20 01:54:54,569: INFO/MainProcess] celery@7d0a5f95ab13 ready.
+[2024-03-20 01:54:55,461: INFO/MainProcess] mingle: sync with 1 nodes
+[2024-03-20 01:54:55,493: INFO/MainProcess] mingle: sync complete
+[2024-03-20 01:54:55,530: INFO/MainProcess] celery@9b74aceb915e ready.
+[2024-03-20 01:54:59,536: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-03-20 01:54:59,536: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-03-20 01:54:59,537: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-03-21 07:43:39,909: INFO/MainProcess] missed heartbeat from celery@a79efbd4548b
+[2024-03-21 07:43:40,051: INFO/MainProcess] missed heartbeat from celery@7d0a5f95ab13
